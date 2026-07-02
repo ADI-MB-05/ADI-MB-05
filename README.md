@@ -13,3 +13,4 @@ I’m Adithyan, a CSE (AI & ML) undergraduate who enjoys building intelligent, r
 📫 Reach me at:
 Email: adi.mariyathody@gmail.com  
 LinkedIn: linkedin.com/in/adithyan-m-b-a78135290
+![Profile Views](https://komarev.com/ghpvc/?username=UdayBhardwaj&style=flat-square&color=7AA2F7)
